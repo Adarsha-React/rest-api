@@ -1,0 +1,16 @@
+{
+  "name": "restapi_1",
+  "version": "1.0.0",
+  "description": "Building Backend API's",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Adarsha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
