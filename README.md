@@ -16,4 +16,19 @@
   - use npm run start
 
 - .gitignore file
+
   - added node_modules - which ignore this file to transfer to github
+
+- Git-commands:
+
+  - Created a git repository on github (rest-api)
+
+  - git init
+  - git add .
+  - git branch -m main
+  - git commit -m "Created simple express server"
+  - git remote add origin https://github.com/Adarsha-React/rest-api.git
+  - git push origin main
+
+- finally: npm run start
+  Server is up: http://localhost:5050/
